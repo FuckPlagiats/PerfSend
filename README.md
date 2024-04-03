@@ -5,7 +5,7 @@ PerfSend is an SMS campaign delivery system that utilizes your mobile plan for S
 
 If you are having difficulty with using variables in your message. : https://youtu.be/jgwBYFfTdI0
 
-#Installation Android part
+**Installation Android part**
 
 You need download 2 apk 
 - first apk link : https://apkpure.com/gsm-modem-sms/com.gsmmodem
