@@ -5,7 +5,7 @@ PerfSend is an SMS campaign delivery system that utilizes your mobile plan for S
 
 If you are having difficulty with using variables in your message. : https://youtu.be/jgwBYFfTdI0
 
-**Installation Android part : **
+#Installation Android part : 
 
 You need download 2 apk ( From My Rep )
 after install latest helper tool open it, open the gsmmodem app too, in the gsm modem application you get an ip like http://XXX.XXX.X.XXX:8093/ in python script edit ONLY the line 19 & 31 and put your ip. after that go to users in app, make a new user nammed test and password 1234 dont forget tick the checkbox below.
